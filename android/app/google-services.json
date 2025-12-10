@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831938772599",
+    "project_id": "sraddha-5ad17",
+    "storage_bucket": "sraddha-5ad17.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831938772599:android:0385bf88f6fc0b295b9072",
+        "android_client_info": {
+          "package_name": "com.example.sraddha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvqq5b04mhv1GRw3i5HFQmBNb4DfPmhzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
